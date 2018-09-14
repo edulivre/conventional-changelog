@@ -1,4 +1,4 @@
-# @vue/conventional-changelog
+# @edulivre/conventional-changelog
 
 Custom preset for [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog/) which groups changes by package (`@edulivre/xxx`). It works by getting the package which has the highest number of changed files in each commit.
 
